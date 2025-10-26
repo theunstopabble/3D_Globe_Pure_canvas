@@ -1,17 +1,3 @@
-<p align="left">
-	<img src="https://img.shields.io/github/license/theunstopabble/3D_Globe_Pure_canvas?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/theunstopabble/3D_Globe_Pure_canvas?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/theunstopabble/3D_Globe_Pure_canvas?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/theunstopabble/3D_Globe_Pure_canvas?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="left"><!-- default option, no dependency badges. -->
-</p>
-<p align="left">
-	<!-- default option, no dependency badges. -->
-</p>
-</div>
-<br clear="right">
-
 ## 🔗 Table of Contents
 
 - [📍 Overview](#-overview)
